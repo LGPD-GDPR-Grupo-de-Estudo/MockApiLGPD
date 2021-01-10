@@ -1,0 +1,24 @@
+{
+  "name": "mockapilgpd",
+  "version": "1.0.0",
+  "description": ":book: Mock API LGPD",
+  "main": "server.js",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LGPD-GDPR-Grupo-de-Estudo/MockApiLGPD.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LGPD-GDPR-Grupo-de-Estudo/MockApiLGPD/issues"
+  },
+  "homepage": "https://github.com/LGPD-GDPR-Grupo-de-Estudo/MockApiLGPD#readme"
+}
